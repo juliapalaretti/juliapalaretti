@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juliapalaretti, welcome to my personal area!
+- 👀 I’m interested in data analysis and software development
+- 🌱 I’m currently learning Python and planning to get my hands on Java after that
+- 📫 You can reach me through my email: julia.palaretti@gmail.com
